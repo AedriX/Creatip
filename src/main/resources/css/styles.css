@@ -1,0 +1,21 @@
+body.background-color {
+    background-color: #afb420;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: #67f0ff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #36cc6b;
+}
+
+button i {
+    margin-right: 5px;
+}
